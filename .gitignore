@@ -1,1 +1,6 @@
 /04. 한국어 생성 기반 상식추론
+dataset
+lora_model
+outputs
+Easy_DPO
+wandb
